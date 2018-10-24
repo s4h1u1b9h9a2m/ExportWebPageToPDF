@@ -1,2 +1,3 @@
-# shub_web_features
-Features that can be used in Web Development or related to web application.
+# Export Webpage To PDF
+
+Script will be able to export full webpage in PDF format.
